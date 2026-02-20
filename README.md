@@ -1,2 +1,5 @@
-# expert-AmodernPython
-A expert level coding project: A modern Python trading bot. Authored by Anurag Tewary.
+# A modern Python trading bot
+
+This is an auto-generated fallback project because the AI engine was offline.
+
+Authored by Anurag Tewary.
